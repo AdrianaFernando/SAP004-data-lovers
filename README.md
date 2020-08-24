@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Definiçao de Produto](#1-definição-de-produto) testando
+* [1. Definiçao de Produto](#1-definição-de-produto)
 * [2. Histórias de Usuários](#2-histórias-de-usuários)
 * [3. Protótipo de baixa fidelidade](#3-prot[otipo-de-baixa-fidelidade])
 * [4. Implementação da Interface e Checklist](#4-Implementação-da-interface-e-checklist)
